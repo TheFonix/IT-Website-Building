@@ -64,6 +64,7 @@ header .navbar-default {
 }
 header .navbar-default .navbar-nav {
 	padding-top: 10px;
+	padding-right: 90px;
 }
 header .navbar-default .navbar-nav li a {
 	color: #fff;
@@ -278,6 +279,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	border-bottom: solid;
 	border-width: 2px;
 	border-color: #ff0000;
+	text-align: center;
 }
 #testimonial .block h2 {
 	line-height: 27px;
