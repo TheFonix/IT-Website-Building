@@ -216,7 +216,7 @@ td, th {
 @font-face {
 	font-family: 'Glyphicons Halflings';
 	src: url(../fonts/glyphicons-halflings-regular.eot);
-	src: url(../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(../fonts/glyphicons-halflings-regular.woff) format('woff'), url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
+	src: url(../fonts/glyphicons-halflings-regular-.eot#iefix) format('embedded-opentype'), url(../fonts/glyphicons-halflings-regular.woff) format('woff'), url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
 }
 * {
 	-webkit-box-sizing: border-box;
@@ -1599,3 +1599,5 @@ button.close {
 .visible-xs-block, .visible-xs-inline, .visible-xs-inline-block, .visible-sm-block, .visible-sm-inline, .visible-sm-inline-block, .visible-md-block, .visible-md-inline, .visible-md-inline-block, .visible-lg-block, .visible-lg-inline, .visible-lg-inline-block {
 	display: none!important
 }
+
+/* Localized */

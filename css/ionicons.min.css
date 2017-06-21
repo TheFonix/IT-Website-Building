@@ -4,8 +4,8 @@
 @charset "UTF-8";
 @font-face {
 	font-family: "Ionicons";
-	src: url("../fonts/ionicons.eot?v=2.0.0");
-	src: url("../fonts/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"), url("../fonts/ionicons.ttf?v=2.0.0") format("truetype"), url("../fonts/ionicons.woff?v=2.0.0") format("woff"), url("../fonts/ionicons.svg?v=2.0.0#Ionicons") format("svg");
+	src: url("../fonts/ionicons-v=2.0.0.eot");
+	src: url("../fonts/ionicons-v=2.0.0.eot#iefix") format("embedded-opentype"), url("../fonts/ionicons-v=2.0.0.ttf") format("truetype"), url("../fonts/ionicons-v=2.0.0.woff") format("woff"), url("../fonts/ionicons-v=2.0.0.svg#Ionicons") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -2236,3 +2236,5 @@
 .ion-xbox:before {
 	content: "\f30c"
 }
+
+/* Localized */
